@@ -2,9 +2,7 @@
   "name": "barebohnz-dev-and-consulting-website",
   "private": true,
   "version": "0.0.0",
-  "engines": {
-    "node": ">=18.0.0"
-  },
+  "vite": "",
 
   "scripts": {
     "dev": "vite",
